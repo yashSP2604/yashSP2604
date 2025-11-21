@@ -1,6 +1,6 @@
  Hi there, I'm Yash Bhandari! 👋
 
-Welcome to my GitHub profile! I'm a student passionate about Machine Learning and data-driven solutions.
+Welcome to my GitHub profile! I'm a student passionate about Machine Learning and Game Development.
 
 - 🎓 Student actively learning and building projects
 - 🤖 __Machine Learning enthusiast__
