@@ -17,11 +17,6 @@ Computer Engineering undergraduate at **Pimpri Chinchwad College of Engineering 
 - 🎮 Developing independent **2D and 3D games with Unity and C#**
 - 🌱 Interested in **internships, software engineering opportunities, AI/ML projects, and open-source collaboration**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashSP2604&show_icons=true&theme=radical&hide_border=true" alt="Yash's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashSP2604&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
 <h2 align="center">🛠️ Technical Arsenal</h2>
@@ -66,24 +61,18 @@ Computer Engineering undergraduate at **Pimpri Chinchwad College of Engineering 
 ### Sketch2UI
 **Computer vision pipeline for converting hand-drawn UI wireframes into structured HTML/CSS.**
 
-<img align="right" src="https://via.placeholder.com/250x150.png?text=Add+Screenshot+Here" width="250" alt="Sketch2UI Preview" />
-
 An ongoing project exploring the intersection of **computer vision, image processing, and automated UI generation**.
 **Tech:** Python • Computer Vision • Image Processing • HTML/CSS
 🔗 [View Project](https://github.com/yashSP2604/Sketch2UI)
-<br clear="all">
 
 ---
 
 ### Employee Data Analyzer
 **Enterprise-oriented Java application for processing, analyzing, and managing employee data.**
 
-<img align="right" src="https://via.placeholder.com/250x150.png?text=Add+Screenshot+Here" width="250" alt="Employee Data Analyzer Preview" />
-
 Explores production-style backend concepts including **concurrent processing, thread-safe data structures, dynamic CSV ingestion, Java Streams, structured logging, and exception handling**.
 **Tech:** Java • ExecutorService • ConcurrentHashMap • Java Streams • CSV • Maven
 🔗 [View Project](https://github.com/yashSP2604/Employee-Data-Analyzer)
-<br clear="all">
 
 ---
 
@@ -148,10 +137,6 @@ Bachelor of Computer Engineering (Sept 2024 – Present)
   <a href="https://www.linkedin.com/in/yash-bhandari-a64485329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dazaiosa04.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
   <a href="https://leetcode.com/u/yashbh07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashSP2604&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
